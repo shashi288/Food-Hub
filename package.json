@@ -2,10 +2,9 @@
   "name": "food-hub",
   "version": "1.0.0",
   "description": "Online Food Delivering app",
-  "main": "index.html",
   "scripts": {
-    "start":"parcel index.html",
-    "build":"parcel build index.html",
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "keywords": [
@@ -21,6 +20,7 @@
     "process": "^0.11.10"
   },
   "dependencies": {
+    "bootstrap-icons": "^1.11.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
